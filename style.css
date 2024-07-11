@@ -1,0 +1,77 @@
+.playwrite-fnt{
+  font-family : "Playwrite NZ", cursive;
+  font-optical-sizing : auto;
+  font-weight : 400;
+  font-style : normal;
+}
+
+.container{
+    height: 100vh;
+}
+.Top-Section{
+    background-color: #222831;
+}
+.Second-section{
+    background-color: #00ADB5;
+    height: 600px;
+}
+.third-section{
+    background-color: #EEEEEE;
+    padding-top: 100px;
+    height: 600px;
+}
+.self{
+    padding-top: 4rem;
+    padding-bottom: 10rem;
+}
+.im1{
+    height: 250px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ab{
+    text-align: center;
+}
+.col{
+    width: 900px;
+}
+.features{
+    display: flex;
+    justify-content: space-evenly;
+}
+.lfe{
+    float: left;
+    padding-right: 20px;
+    }
+.rhe{
+    float: left;
+    padding-right: 20px;
+}
+.cntr{
+    text-align: center;
+}
+.work{
+    text-align: center;
+    padding-bottom: 45px;
+}
+.wrkimg {
+    display: block;
+    height: 250px;
+    margin-left: 130px;
+    margin-top: auto;
+    border: black solid;
+}
+.wrkimg1 {
+    display: block;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: auto;
+    border: black solid;
+}
+.footer{
+    background-color: #00ADB5;
+    padding-top: 1px;
+}
